@@ -26,7 +26,7 @@
 		<slf4j.version>1.7.0</slf4j.version>
 		<support-v4.version>r7</support-v4.version>
 		<commons-io.version>2.4</commons-io.version>
-		<commons-compress.version>1.4.1</commons-compress.version>
+		<commons-compress.version>1.19</commons-compress.version>
 		<jersey.version>1.4</jersey.version>
 		<logback.version>1.0.0</logback.version>
 		<junit.version>4.10</junit.version>
