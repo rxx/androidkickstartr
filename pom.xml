@@ -31,7 +31,7 @@
 		<logback.version>1.0.0</logback.version>
 		<junit.version>4.10</junit.version>
 		<maven-invoker.version>2.0.11</maven-invoker.version>
-		<httpcomponents.version>4.2.2</httpcomponents.version>
+		<httpcomponents.version>4.3.6</httpcomponents.version>
 		<jgit.version>2.2.0.201212191850-r</jgit.version>
 		<egit.version>2.1.3</egit.version>
 	</properties>
